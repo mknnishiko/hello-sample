@@ -1,0 +1,23 @@
+header{
+    text-align: center;
+    font-family: serif;
+    background-color: azure;
+    margin: 16px;
+}
+.container{
+    text-align: center;
+    margin: 0% 10%;
+}
+.card-section{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.card{
+    background-color: khaki;
+    text-align: left;
+    width: 100%;
+    height: auto;
+    padding: 16px;
+    margin: 16px;
+}
